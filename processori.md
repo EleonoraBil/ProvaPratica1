@@ -1,5 +1,5 @@
 [1235002],[2109806]
-# INVENTARIO
+# PROCESSORI
 
 - processore1
 
