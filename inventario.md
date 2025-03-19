@@ -17,5 +17,11 @@
 
 ## PERIFERICHE
 
+- tastiera1
+
+- tastiera2
+
+- tastiera3
+
 - Elettronica Padovana
 
